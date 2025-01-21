@@ -31,7 +31,7 @@ Comme dans un repas, **plusieurs** étapes :
 |-------|-----------------|-------------------|
 | Préparation et Cuisson | - Cœur de l'activité<br>- Mélange des ingrédients selon la recette | Intégration Continue (CI)<br>- Intégration de chaque commit dans la branche principale |
 
-    ### 1.1.3 Dressage
+### 1.1.3 Dressage
 
 | Étape | Côté Restaurant | Côté Développement |
 |-------|-----------------|-------------------|
