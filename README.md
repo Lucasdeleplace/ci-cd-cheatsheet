@@ -60,5 +60,12 @@ Versionning = gestion des versions -> essentielle pour suivre les modifications,
 Serveurs d'intégration continue = systèmes automatisés jouant un rôle crucial dans le dev' logiciel moderne.
 **Fonction principale** : compilation automatique dès qu'un commit est effectué
 
-Les serveurs CI : souvent des conteneurs / machines virtuelles (environnement isolé) -> garantie que l'exécution des tests est propre et contrôlée
+**Les serveurs CI** : souvent des conteneurs / machines virtuelles (environnement isolé) -> garantie que l'exécution des tests est propre et contrôlée
+
+<!-- Intégrer les liens de site officiel de chaque outil -->
+- **Jenkins** ([ici](https://www.jenkins.io/)) : outil open source de CI/CD
+- **Gitlab CI** ([ici](https://docs.gitlab.com/ee/ci/)) : outil de CI/CD **intégré** par Gitlab
+- **Github Actions** ([ici](https://docs.github.com/en/actions)) : outil de CI/CD **intégré** à Github
+- **CircleCI** ([ici](https://circleci.com/)) : outil de CI/CD pour le développement de logiciel
+- **TravisCI** ([ici](https://www.travis-ci.com/)) : outil de CI/CD pour construire et tester des projets 
 
