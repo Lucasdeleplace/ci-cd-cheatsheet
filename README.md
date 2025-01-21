@@ -1,17 +1,19 @@
 # GitHub Actions (CI/CD) Cheatsheet
 
 ## Table des matières
-  - [1.1 Introduction](#11-introduction)
-     - [1.1.1 Planification](#111-planification)
-     - [1.1.2 Préparation et Cuisson](#112-préparation-et-cuisson)
-     - [1.1.3 Dressage](#113-dressage)
-     - [1.1.4 Service](#114-service)
-  - [1.2 Les outils CI/CD](#12-les-outils-ci-cd)
-     - [1.2.1 Gestion des versions](#121-gestion-des-versions)
-     - [1.2.2 Serveurs d'intégration continue (CI)](#122-serveurs-dintégration-continue-ci)
+ - [1. Introduction fondamentale](#1-introduction-fondamentale)
+    - [1.1 Introduction](#11-introduction)
+    - [1.2 Les outils CI/CD](#12-les-outils-ci-cd)
+        - [1.2.1 Gestion des versions](#121-gestion-des-versions)
+        - [1.2.2 Serveurs d'intégration continue (CI)](#122-serveurs-dintégration-continue-ci)
+        - [1.2.3 Serveurs de livraison et de déploiement continu (CD)](#123-serveurs-de-livraison-et-de-déploiement-continu-cd)
+        - [1.2.4 Orchestration de conteneurs](#124-orchestration-de-conteneurs)
+        - [1.2.5 Monitoring et logging](#125-monitoring-et-logging)
+         - [1.2.6 Gestion de Version Sémantique (SemVer)](#126-gestion-de-version-sémantique-semver)
+  - [2. Introduction à Github Actions](#2-introduction-à-github-actions)
 ---
-
-## 1.1 Introduction
+# 1 Introduction fondamentale
+## 1.1 Introduction à la CI/CD
 
 *Métaphore utilisée : grand repas de famille*
 
@@ -109,4 +111,6 @@ Trois champs :
 - **MINOR** : ajouts de fonctionnalités
 - **PATCH** : corrections de bugs
 
-*Exemple : 1.2.3 -> 1.3.0 -> 1.3.1*
+---
+
+# 2. Introduction à Github Actions
