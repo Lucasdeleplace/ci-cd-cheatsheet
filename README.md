@@ -1,11 +1,11 @@
 # GitHub Actions (CI/CD) Cheatsheet
 
 ## Table des matières
- - [1. Introduction](#1-introduction)
-    - [1.1 Planification](#11-planification)
-    - [1.2 Préparation et Cuisson](#12-préparation-et-cuisson)
-    - [1.3 Dressage](#13-dressage)
-    - [1.4 Service](#14-service)
+  - [1.1 Introduction](#11-introduction)
+     - [1.1.1 Planification](#111-planification)
+     - [1.1.2 Préparation et Cuisson](#112-préparation-et-cuisson)
+     - [1.1.3 Dressage](#113-dressage)
+     - [1.1.4 Service](#114-service)
 ---
 
 ## 1.1 Introduction
