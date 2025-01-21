@@ -6,6 +6,9 @@
      - [1.1.2 Préparation et Cuisson](#112-préparation-et-cuisson)
      - [1.1.3 Dressage](#113-dressage)
      - [1.1.4 Service](#114-service)
+  - [1.2 Les outils CI/CD](#12-les-outils-ci-cd)
+     - [1.2.1 Gestion des versions](#121-gestion-des-versions)
+     - [1.2.2 Serveurs d'intégration continue (CI)](#122-serveurs-dintégration-continue-ci)
 ---
 
 ## 1.1 Introduction
