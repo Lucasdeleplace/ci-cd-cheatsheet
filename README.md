@@ -58,7 +58,7 @@ Versionning = gestion des versions -> essentielle pour suivre les modifications,
 ### 1.2.2 Serveurs d'intégration continue (CI)
 
 **Serveurs d'intégration continue** = systèmes automatisés jouant un rôle crucial dans le dev' logiciel moderne.
-**Fonction principale** : compilation automatique dès qu'un commit est effectué
+**Fonction principale** : compilation automatique **dès qu'un commit est effectué**
 
 **Les serveurs CI** : souvent des conteneurs / machines virtuelles (environnement isolé) -> garantie que l'exécution des tests est propre et contrôlée
 
@@ -68,4 +68,18 @@ Versionning = gestion des versions -> essentielle pour suivre les modifications,
 - **Github Actions** ([ici](https://docs.github.com/en/actions)) : outil de CI/CD **intégré** à Github
 - **CircleCI** ([ici](https://circleci.com/)) : outil de CI/CD pour le développement de logiciel
 - **TravisCI** ([ici](https://www.travis-ci.com/)) : outil de CI/CD pour construire et tester des projets 
+
+### 1.2.3 Serveurs de livraison et de déploiement continu (CD)
+
+**Serveurs de livraison continue** = systèmes automatisés qui permettent de déployer les applications **en production** -> favorise les déploiements rapides, fiables et sécurisés
+
+En somme, c'est une transformation de la manière dont les logiciels sont **développés**, **testés** et **déployés**
+
+- **Spinnaker** ([ici](https://spinnaker.io/)) : outil de CI/CD pour déployer des applications en production
+- **ArgoCD** ([ici](https://argoproj.github.io/cd/)) : outil de CI/CD pour déployer des applications en production
+- **Docker** ([ici](https://www.docker.com/)) : outil de CI/CD pour déployer des applications en production
+
+### 1.2.4 Orchestration de conteneurs
+
+Métaphore : **Orchestration** = **Orchestre** -> permet de gérer les conteneurs de manière efficace
 
