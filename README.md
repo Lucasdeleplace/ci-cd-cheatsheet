@@ -113,4 +113,17 @@ Trois champs :
 
 ---
 
-# 2. Introduction à Github Actions
+# 2. Github Actions
+
+## 2.1 Introduction
+
+### 2.1.1 L'écosystème Github Actions
+
+L'écosystème de Github Actions englobe : 
+- **Dépots Git** : au coeur de Github, permet de stocker les fichiers et les versions des projets
+- **Pull Requests** : permet de proposer des modifications à un projet
+- **Github Issues** : permet de suivre les problèmes et les idées des utilisateurs
+- **Github Pages** : permet de publier des pages web statiques à partir de dépots Github
+- **Github Marketplace** : permet de trouver des actions Github, y compris pour Github Actions
+- **Github Security** : fonctionnalités de sécurité pour les dépots Github
+- **Explore** : permet de trouver des projets, collections, tendances, etc., partagés par la communauté GitHub
