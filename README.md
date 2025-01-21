@@ -81,5 +81,11 @@ En somme, c'est une transformation de la manière dont les logiciels sont **dév
 
 ### 1.2.4 Orchestration de conteneurs
 
-Métaphore : **Orchestration** = **Orchestre** -> permet de gérer les conteneurs de manière efficace
+Métaphore : **Orchestration** = **Orchestre** -> permet de « dupliquer » des conteneurs, de les déployer, de les gérer, de les mettre à jour, de les supprimer, etc.
+
+En cas d'évènement important, on peut déployer des conteneurs supplémentaires pour gérer la charge sans surcharger le serveur principal et faire continuer le service. 
+(exemple : Doctolib lors d'une pandémie)
+
+- **Docker Swarm** ([ici](https://docs.docker.com/engine/swarm/)) : outil de gestion de cluster open source (cluster = ensemble de conteneurs)
+- **Kubernetes** ([ici](https://kubernetes.io/)) : système d'orchestration de conteneurs open source
 
