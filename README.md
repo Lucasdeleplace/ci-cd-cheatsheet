@@ -98,4 +98,15 @@ Ce sont deux aspects essentiels pour la gestion des applications, fournissant de
 
 - **Prometheus** ([ici](https://prometheus.io/)) : outil de monitoring open source
 - **Grafana** ([ici](https://grafana.com/)) : outil de monitoring open source
-- **Elasticsearch, Logstash, Kibana (ELK)** : suite d'outils open source pour la gestion des logs
+- **Elasticsearch, Logstash, Kibana (ELK)** : **suite** d'outils open source pour la gestion des logs
+
+### 1.2.6 Gestion de Version Sémantique (SemVer)
+
+- **SemVer** = **Semantic Versioning**
+
+Trois champs :
+- **MAJOR** : changements majeurs, **incompatibles** avec les versions précédentes
+- **MINOR** : ajouts de fonctionnalités
+- **PATCH** : corrections de bugs
+
+*Exemple : 1.2.3 -> 1.3.0 -> 1.3.1*
