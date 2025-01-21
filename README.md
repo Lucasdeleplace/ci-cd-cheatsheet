@@ -89,3 +89,13 @@ En cas d'évènement important, on peut déployer des conteneurs supplémentaire
 - **Docker Swarm** ([ici](https://docs.docker.com/engine/swarm/)) : outil de gestion de cluster open source (cluster = ensemble de conteneurs)
 - **Kubernetes** ([ici](https://kubernetes.io/)) : système d'orchestration de conteneurs open source
 
+### 1.2.5 Monitoring et logging
+
+Ce sont deux aspects essentiels pour la gestion des applications, fournissant des informations sur l'état des applications et leur performance.
+
+**Monitoring** = surveillance des **performances** des applications
+**Logging** = suivi des **évènements** et **erreurs** dans les applications
+
+- **Prometheus** ([ici](https://prometheus.io/)) : outil de monitoring open source
+- **Grafana** ([ici](https://grafana.com/)) : outil de monitoring open source
+- **Elasticsearch, Logstash, Kibana (ELK)** : suite d'outils open source pour la gestion des logs
